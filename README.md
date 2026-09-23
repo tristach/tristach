@@ -1,27 +1,53 @@
-<h1>Nick Stach, <a href="https://linkedin.com/in/Josh">Cyber Security Professional</h1>
+# Nick Stach | Cloud Security & Security Operations
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+Cloud security and security operations professional focused on Microsoft Azure, Microsoft Sentinel, KQL, Python automation, threat detection, vulnerability assessment, and infrastructure as code.
 
-- <b>Azure Cloud SOC</b>
-  - [Creating a live SOC/Honeynet in Azure](https://github.com/tristach/Azure-Cloud-SOC/tree/main)
-- <b>Cloud Vulnerability Management/Remediation.</b>
-  - [Demonstrating Cybersecurity Vulnerability Mngt. Remediation in Cloud](https://github.com/tristach/Cybersecurity.Vulnerability.Mngt.)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tristach/Active.Directory.Azure.VMs/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tristach/Azure.Network.Protocols/blob/main/README.md)
+## 🔐 Featured Cloud Security Projects
 
-<h2>Connect with me on LinkedIn.  See my coding portfolio on github:</h2>
+### Enterprise Security Platform (ESP)
+**Microsoft Sentinel • KQL • Python • Flask • Azure SDK • Docker • Kubernetes • NGINX • Terraform**
 
+Cloud-native security platform that retrieves live Microsoft Sentinel telemetry and provides security analytics, filtering, and MITRE ATT&CK mapping.
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [View Enterprise Security Platform](https://github.com/tristach/enterprise-security-platform)
 
+### Azure SOC & Honeynet
+**Microsoft Sentinel • Log Analytics • KQL • Sysmon • Logic Apps**
 
+Cloud-based SOC and honeynet environment used to capture and analyze real-world malicious Internet traffic and develop threat detections.
 
-[linkedin]: https://www.linkedin.com/in/nick-stach?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B72I0SCqUQZ%2BdU4%2F%2BmKBKug%3D%3D
+- [View Azure SOC & Honeynet](https://github.com/tristach/Azure-Cloud-SOC)
 
-https://tristach.github.io/
+### Vulnerability Assessment & Remediation
+**Tenable Nessus • Vulnerability Management • Remediation**
 
+Hands-on vulnerability assessment and remediation project using cloud-hosted systems.
 
+- [View Vulnerability Management Project](https://github.com/tristach/Cybersecurity.Vulnerability.Mngt.)
+
+### Terraform Azure Infrastructure
+**Terraform • Azure VNets • Subnets • NSGs • NICs • Virtual Machines**
+
+Infrastructure-as-Code project used to provision and configure Azure networking and compute resources.
+
+- [View Terraform Azure Infrastructure](https://github.com/tristach/terraform-azure-infrastructure)
+
+### Cloud-Cover Security Automation
+**Microsoft Sentinel • KQL • Logic Apps • Python • pandas**
+
+Security automation project that collects failed-login telemetry, analyzes attacker activity, and generates actionable security information.
+
+- [View Cloud-Cover](https://github.com/tristach/rakuten-ML-cloud-cover)
+
+## ☁️ Additional Azure Projects
+
+- [Active Directory within Azure VMs](https://github.com/tristach/Active.Directory.Azure.VMs)
+- [Network Security Groups & Network Protocol Analysis](https://github.com/tristach/Azure.Network.Protocols)
+
+## 🔗 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nick-stach)
+- [GitHub](https://github.com/tristach/tristach)
 
 
 
